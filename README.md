@@ -4,6 +4,7 @@
 Tento projekt se zaměřuje na návrh a implementaci počítačových sítí pro smyšlenou firmu. Obsahuje detailní schémata síťové infrastruktury a rozpočet na realizaci projektu.
 
 ## Obsah
+Veškeré soubory naleznete v [Soubory](https://github.com/wrexik/Areal-site/tree/main/soubory)
 - `Schemata.drawio.xml`: Obsahuje detailní schémata síťové infrastruktury.
 - `rozpočet.xlsx`: Obsahuje podrobný rozpočet na realizaci projektu.
 - `Pruvodni_zprava.docx`: Obsahuje popis všeho nového v plánu a podrobný popis jednotlivých částí a budov.
